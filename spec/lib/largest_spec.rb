@@ -1,5 +1,5 @@
 require "spec_helper"
-require "Largest"   # name of the class we have just created
+require "largest"   # name of the class we have just created
  
 describe Largest do
   describe "#find_largest" do
